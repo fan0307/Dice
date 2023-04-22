@@ -4,4 +4,6 @@ Refreash the web site then the dice get thrown randomly, and our web site will a
 </p>
 <p> You can use this web site to settle all your family arguments and any sort of disputes!
 </p>
+
+
 (* DOM and javascript practice *)
